@@ -19,7 +19,7 @@ var config_data = `
       "type": "event",
       "defaultValue": "2023gal",
       "required": "true",
-      "disabled": "false"
+      "disabled": "true"
     },
     { "name": "Match Level",
       "code": "l",
