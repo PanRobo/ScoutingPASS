@@ -1,5 +1,5 @@
 function setUpGoogleSheets() {
-    const scriptURL = '<SCRIPT URL>'
+    const scriptURL = 'https://docs.google.com/spreadsheets/d/1MMY32IbPYZq-qwvUYGt1Ei7hBjHxhLAcIhgALalyKBU/edit#gid=0'
     const form = document.querySelector('#scoutingForm')
     const btn = document.querySelector('#submit')
  
